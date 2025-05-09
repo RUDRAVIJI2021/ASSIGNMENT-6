@@ -1,4 +1,5 @@
 function calculateGrade() {
+    
 let tamil = Number(prompt("Enter Tamil marks:"));
 let english = Number(prompt("Enter English marks:"));
 let maths = Number(prompt("Enter Maths marks:"));
